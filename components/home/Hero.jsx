@@ -17,7 +17,7 @@ const Hero = () => {
           color: white;
           direction: rtl;
           text-align: right;
-          height: 100vh;
+          height: 95vh;
           background-image: url("/images/home/hero-bg.jpg");
           background-repeat: no-repeat;
           background-size: 700px;

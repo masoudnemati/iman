@@ -35,35 +35,23 @@ const RightNav = ({ open }) => {
             margin: 0;
           }
 
-          /* .home-li {
-            background-image: url("/icons/icons8-home-24.png");
-            background-repeat: no-repeat;
-            background-position: right center;
-          }
-
-          .songs-li {
-            background-image: url("/icons/icons8-musical-notes-24.png");
-            background-repeat: no-repeat;
-            background-position: right center;
-          }
-
-          .video-li {
-            background-image: url("/icons/icons8-video-call-24.png");
+          .home-li {
+            background-image: url("/images/navbar/icons8-home.svg");
             background-repeat: no-repeat;
             background-position: right center;
           }
 
           .about-us-li {
-            background-image: url("/icons/icons8-about-24.png");
+            background-image: url("/images/navbar/icons8-book-24.png");
             background-repeat: no-repeat;
             background-position: right center;
           }
 
           .contact-us-li {
-            background-image: url("/icons/icons8-phone-24.png");
+            background-image: url("/images/navbar/icons8-phone-24.png");
             background-repeat: no-repeat;
             background-position: right center;
-          } */
+          }
 
           @media only screen and (max-width: 780px) {
             .nav-ul {
