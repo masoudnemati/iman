@@ -10,7 +10,6 @@ class MyDocument extends Document {
     return (
       <Html lang="fa">
         <Head>
-          <meta name="viewport" content="width=device-width,initial-scale=1" />
           <link
             href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@latest/dist/font-face.css"
             rel="stylesheet"

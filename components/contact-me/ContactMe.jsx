@@ -7,17 +7,15 @@ const ContactMe = () => {
         <h3>جهت تماس با من می توانید از طریق راه های زیر اقدام کنید:</h3>
         <article>
           <ul>
-            <li>
-              <a href="https://t.me/n1_iman">Telegram: @N1_iMAN</a>
-            </li>
-            <li>
-              <a href="https://www.instagram.com/iman1995n1/">
-                Instagram: @iman1995n1
-              </a>
-            </li>
-            <li>
-              <a href="">Email:</a>
-            </li>
+            <a href="https://t.me/n1_iman">
+              <li>Telegram: @N1_iMAN</li>
+            </a>
+            <a href="https://www.instagram.com/iman1995n1/">
+              <li>Instagram: @iman1995n1</li>
+            </a>
+            <a href="">
+              <li>Email: iman1995n1@gmail.com</li>
+            </a>
           </ul>
         </article>
       </main>
@@ -48,7 +46,7 @@ const ContactMe = () => {
         }
 
         li {
-          width: 250px;
+          width: 310px;
           padding: 10px 15px;
           margin: 10px;
           list-style: none;
