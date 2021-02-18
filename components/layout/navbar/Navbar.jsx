@@ -22,7 +22,7 @@ const Navbar = () => {
           height: 105px;
           margin: 0;
           padding: 0 20px;
-          background-color: #1b2b28;
+          background-color: rgba(27, 43, 40, 0.8);
           display: flex;
           justify-content: space-between;
           border-bottom: 1px solid black;

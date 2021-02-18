@@ -1,7 +1,7 @@
 import Head from "next/head";
-import Hero from "../components/home/Hero";
 import Layout from "../components/layout/Layout";
-
+import Hero from "../components/home/Hero";
+import Info from "../components/home/Info";
 export default function Home() {
   return (
     <>
@@ -12,6 +12,7 @@ export default function Home() {
       <Layout>
         <main>
           <Hero />
+          <Info />
         </main>
       </Layout>
     </>
